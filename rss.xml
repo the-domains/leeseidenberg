@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[leeseidenberg]]></title>
         <description><![CDATA[leeseidenberg]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/leeseidenberg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 16:44:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jan 2016 19:31:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/leeseidenberg/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[L1013628.jpg]]></title>
+            <description><![CDATA[<article><h1>L1013628.jpg</h1><p>Shot with the Leica ME  and 50/1.4 Summicron. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f43aff42510cff4a4a48459d68293b87c7b92f57.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/leeman73/24293854600/in/dateposted-public/</link>
+            <guid isPermaLink="false">66e8aff5-5418-4974-93f4-e1e9e0f5a65b</guid>
+            <pubDate>Thu, 28 Jan 2016 19:31:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2bb688c-2c48-4f1e-9308-27b31d773fe5.jpg">]]></description>
-            <link>undefined4a542c8d-63d8-4719-8daf-be4c5568c7ab/index.html</link>
+            <link>https://thegrid.ai/leeseidenberg/4a542c8d-63d8-4719-8daf-be4c5568c7ab/index.html</link>
             <guid isPermaLink="false">4a542c8d-63d8-4719-8daf-be4c5568c7ab</guid>
             <pubDate>Thu, 28 Jan 2016 16:43:25 GMT</pubDate>
         </item>
