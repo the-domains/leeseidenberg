@@ -1,0 +1,28 @@
+name: leeseidenberg
+favicon: null
+layout_spectrum: 0.14418087131343782
+typography_spectrum: 0.6598177019041032
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6624079048633575
+  lightness: 0.2062336141243577
+  saturation: 0.4890718476381153
+  rhythmicContrast: 0.6408030826132745
+purpose: []
