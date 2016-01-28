@@ -1,6 +1,6 @@
 name: leeseidenberg
 favicon: null
-layout_spectrum: 0.49413
+layout_spectrum: 0.91002
 typography_spectrum: 0.32508
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#2150ae'
     - '#87878f'
     - '#131927'
-  brandStrength: 0.625
+  brandStrength: 0.6875
   lightness: 0.375
   saturation: 0.4890718476381153
   rhythmicContrast: 0.6408030826132745
